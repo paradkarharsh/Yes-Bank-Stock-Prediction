@@ -323,6 +323,6 @@ plot_feature_importance(model, features, name)      # Feature importance bar cha
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Harshvardhan Paradkar</strong><br/>
+  Made by <strong>Harshvardhan Paradkar</strong><br/>
   <em>Machine Learning & GenAI with Microsoft Azure — Capstone Project</em>
 </p>
